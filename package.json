@@ -29,7 +29,7 @@
     "vue": "^2.6.11"
   },
   "dependencies": {
-    "quagga": "^0.12.1",
+    "quagga": "git+https://github.com/etiennea/quaggaJS.git",
     "webrtc-adapter": "^7.2.0"
   },
   "browserslist": [
